@@ -1,5 +1,5 @@
-# First headed in the demo file 
+# First header in the demo file 
 clear text under first header 
 
-## second headed 
+## second header 
  text under second header 
